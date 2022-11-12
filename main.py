@@ -4,7 +4,7 @@ from time import sleep
 import os
 from colorama import Fore as f
 from colorama import Style as s
-
+#update
 #vars
 money = 100
 playerHand = {"cards":[], "count":0}
